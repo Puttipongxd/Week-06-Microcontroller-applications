@@ -205,6 +205,7 @@ ls build/
 idf.py size
 
 # บันทึกภาพตาราง ใส่ในไฟล์ส่งงาน
+<img width="1120" height="446" alt="image" src="https://github.com/user-attachments/assets/08e1c392-4263-4e71-a1b4-e9ec93070140" />
 
 # ดูรายละเอียดขนาดตาม component
 idf.py size-components
@@ -221,7 +222,7 @@ idf.py size-files
 idf.py size-files > size-files.txt
 
 # แล้วแนบไฟล์ size-files.txt ในโฟลเดอร์ส่งงาน
-<img width="1120" height="446" alt="image" src="https://github.com/user-attachments/assets/4c09acc7-f89d-431d-9dbf-8729fc6c2764" />
+
 
 ```
 
